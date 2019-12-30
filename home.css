@@ -1,0 +1,86 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.one
+{
+	font-size:20px;
+	background-image: url("two.jpg");
+	height:290px;
+	widows: 1285px;
+	background-size:cover;
+	background-position: center;
+	text-align:center;
+}
+
+
+nav{	
+	
+	background-color:red;
+
+}
+
+nav a{
+    display: inline-block;
+    color: black;
+    padding: 5px 20px;
+    text-decoration: none;
+	border-radius: 12px;
+	font-size: 15px; 
+	font-family:"Times New Roman",sans-sarif;
+  }
+ 
+  nav a:hover {
+    background-color: rgb(255, 166, 0)
+  }
+ 
+  .menu {
+    float: left;
+    width: 20%;
+  }
+  .main {
+    float: left;
+    width: 100%;
+    padding: 0 20px;
+    overflow: hidden;
+    background-image:url("home.jpg");
+    height:485px;
+
+  }
+  .right {
+    background-color: rgb(255, 230, 5);
+    float: right;
+    width: 20%;
+    padding: 10px 15px;
+    margin-top: 7px;
+  }
+  .one1
+  {
+      font-size:20px;
+      color:darkorange;
+      text-decoration-style: solid;
+      padding-top: 50px;
+      
+      text-align:center;
+      
+  }
+  .two
+  {
+      font-size:30px;
+      color:red;
+      background-color: yellow
+      
+  }
+  .two:hover{
+      color:red;
+  }
+  .one11
+  {
+    background-color: yellow
+      
+  }
+  
+
+ 
